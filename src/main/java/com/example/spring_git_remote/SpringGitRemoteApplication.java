@@ -8,6 +8,7 @@ public class SpringGitRemoteApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringGitRemoteApplication.class, args);
+        System.out.println("hello world");
     }
 
 }
